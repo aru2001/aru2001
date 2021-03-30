@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arti Sikhwal.
+- 👋 Hi, I’m Arti.
 - 👀 I’m interested in Machine Learning, Deep learning and Computer Vision.
 - 🌱 I’m currently in Computer Engineering final year.
 - 📫 How to reach me arti.sikhwal.2001@gmail.com
