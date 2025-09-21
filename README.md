@@ -1,5 +1,5 @@
-# Hi there 👋  
-I'm **Arti**, a passionate **Data Scientist** specializing in **Machine Learning, Deep Learning, Computer Vision, LLMs, RAG, and MLOps**.  
+# Hi, I’m Arti.
+A passionate **Data Scientist** specializing in **Machine Learning, Deep Learning, Computer Vision, LLMs, RAG, and MLOps**.  
 I love transforming **complex data challenges into actionable solutions** and building **scalable AI systems** that make an impact.  
 
 ---
