@@ -37,4 +37,4 @@ I love transforming **complex data challenges into actionable solutions** and bu
 
 ---
 
-✨ *“Solving real-world problems with data and AI, one model at a time.”*  
+✨ “Exploring the power of data to create real-world solutions.”
